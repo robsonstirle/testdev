@@ -11,7 +11,7 @@
                            <img src="../assets/agronomia.jpg">
                         </figure>
                         <br>
-                        <button class="button is-primary">Matricule-se</button>
+                        <button class="button is-primary">Saiba Mais</button>
                      </article>
                      
                   </div>
@@ -29,7 +29,7 @@
                            <img src="../assets/direito.jpg">
                         </figure>
                         <br>
-                        <button class="button is-primary">Matricule-se</button>
+                        <button class="button is-primary">Saiba Mais</button>
                      </article>
                      
                   </div>
