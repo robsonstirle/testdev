@@ -47,7 +47,7 @@
                            <img src="../assets/administracao.jpg">
                         </figure>
                         <br>
-                        <button class="button is-primary">Matricule-se</button>
+                        <button class="button is-primary">Saiba Mais</button>
                      </article>
                      
                   </div>

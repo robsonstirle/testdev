@@ -11,7 +11,7 @@
                            <img src="../assets/agronomia.jpg">
                         </figure>
                         <br>
-                        <button class="button is-primary">Matricule-se</button>
+                        <button class="button is-primary">Saiba Mais</button>
                      </article>
                      
                   </div>
@@ -22,19 +22,8 @@
 </template>
 <script>
 
-import FormCadastro from './FormCadastro.vue'
-import VueRouter from 'vue-router'
-
-var router = new VueRouter({
-
-   routes:[
-      { path: '/formcadastro', component: FormCadastro},
-   ]
-
-});
-
    export default {
-       router
+       
    }
 </script>
 <style scoped>
