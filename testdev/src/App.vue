@@ -1,8 +1,9 @@
 <template>
   <div id="app">
-    <h1>testdev</h1>
     <Navbar :msg="teste"/>
   </div>
+
+
 </template>
 
 <script>
