@@ -7,10 +7,10 @@ Passos para execução do projeto
 
 2. Após baixar os arquivos, abrir o cmd e ir para a pasta "testdev" conforme exemplo abaixo
 
-´´´
+```
 cd C:\TesteIntegrado\testdev
 
-´´´
+```
 
 3. Rodar o comando abaixo via cmd
 
@@ -20,7 +20,7 @@ npm run serve
 
 4. Aguardar o projeto iniciar e abrir o navegador no endereço abaixo
 
-´´´
+```
 http://localhost:8080/
 
-´´´
+```
