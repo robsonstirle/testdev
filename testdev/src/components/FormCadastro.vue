@@ -24,12 +24,7 @@
             <input class="input" type="text">
          </div>
       </div>
-      <div class="field">
-         <label class="label">E-mail</label>
-         <div class="control">
-            <input class="input" type="text">
-         </div>
-      </div>
+      
       <div class="field">
          <label class="label">Telefone</label>
          <div class="control">
@@ -90,7 +85,7 @@
       <div class="field">
          <label class="label">Mensagem</label>
          <div class="control">
-            <textarea class="textarea" placeholder="Textarea"></textarea>
+            <textarea class="textarea"></textarea>
          </div>
       </div>
       <div class="field is-grouped">
